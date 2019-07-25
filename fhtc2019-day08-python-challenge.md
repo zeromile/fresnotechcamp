@@ -8,8 +8,38 @@ Write out the COMPLETE code to make a function called `makeSquare(column,row)` t
 - HINT 2: Basic math (addition and subtraction) will come in very handy...
 
 ## Code you will need... ##
-```- if True :
+```
+- if True :
 - import PixelKit as kit
 - render()
 - kit.set_pixel(x, y, color)
-- def function name() :```
+- def function name() :
+```
+
+## Solution ##
+```
+import PixelKit as kit
+
+def makeSquare(column,row):
+    # set color
+    color = [10,5,18]
+
+    # check if column/row are out of bounds
+    if column > 14:
+        column = 14
+
+    if column < 0:
+        column = 0
+
+    if row > 6:
+        row = 6
+
+    if row < 0:
+        row = 0
+    
+    # draw square
+    kit.set_pixel(column,row,color)
+    kit.set_pixel(column+1,row,color)
+    kit.set_pixel(column,row+1,color)
+    kit.set_pixel(column+1,row+1,color)
+    ```
