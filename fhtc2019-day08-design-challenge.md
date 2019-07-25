@@ -8,15 +8,15 @@ You are going to design a flier that we can email/hand out to your parents to in
 - Hint 2: Write everything out FIRST, show Mr C for approval BEFORE designing
 
 ## Info that must be on the flier ##
-- What’s our camp called?
-- What’s the name of the event?
-- Who is sponsoring the event?
-- CMAC Address?
-- Time?
-- Date?
-- Day?
-- Where should they park?
-- Will food be provided?
-- What are they going to see when they visit? / Why should they visit?
-- How long will the event be?
-- Phone number for more information?
+1 What’s our camp called?
+2 What’s the name of the event?
+3 Who is sponsoring the event?
+4 CMAC Address?
+5 Time?
+6 Date?
+7 Day?
+8 Where should they park?
+9 Will food be provided?
+10 What are they going to see when they visit? / Why should they visit?
+11 How long will the event be?
+12 Phone number for more information?
