@@ -3,4 +3,4 @@
 
 [Day 08 - Design Challenge info](fhtc2019-day08-design-challenge.md)
 
-Day 08 - Python Challenge info
+[Day 08 - Python Challenge info](fhtc2019-day08-python-challenge.md)
