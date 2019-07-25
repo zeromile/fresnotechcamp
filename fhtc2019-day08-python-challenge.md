@@ -45,7 +45,9 @@ def makeSquare(column,row):
   kit.set_pixel(column,row+1,color)
   kit.set_pixel(column+1,row+1,color)
   
+  # render the screen
   kit.render()
 
+# create a square, test the out-of-bounds code
 makeSquare(-2,-3)
 ```
