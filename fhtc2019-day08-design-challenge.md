@@ -7,15 +7,15 @@ Hint 1: You will need to ask some people for the information you need →
 Hint 2: Write everything out FIRST, show Mr C for approval BEFORE designing
 
 ## Info that must be on the flier ##
--What’s our camp called?
--What’s the name of the event?
--Who is sponsoring the event?
--CMAC Address?
--Time?
--Date?
--Day?
--Where should they park?
--Will food be provided?
--What are they going to see when they visit? / Why should they visit?
--How long will the event be?
--Phone number for more information?
+- What’s our camp called?
+- What’s the name of the event?
+- Who is sponsoring the event?
+- CMAC Address?
+- Time?
+- Date?
+- Day?
+- Where should they park?
+- Will food be provided?
+- What are they going to see when they visit? / Why should they visit?
+- How long will the event be?
+- Phone number for more information?
