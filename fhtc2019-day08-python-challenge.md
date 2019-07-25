@@ -20,26 +20,32 @@ Write out the COMPLETE code to make a function called `makeSquare(column,row)` t
 ```
 import PixelKit as kit
 
+kit.clear()
+
 def makeSquare(column,row):
-    # set color
-    color = [10,5,18]
+  # set color
+  color = [10,5,18]
 
-    # check if column/row are out of bounds
-    if column > 14:
-        column = 14
+  # check if column/row are out of bounds
+  if column > 14:
+    column = 14
 
-    if column < 0:
-        column = 0
+  if column < 0:
+    column = 0
 
-    if row > 6:
-        row = 6
+  if row > 6:
+    row = 6
 
-    if row < 0:
-        row = 0
-    
-    # draw square
-    kit.set_pixel(column,row,color)
-    kit.set_pixel(column+1,row,color)
-    kit.set_pixel(column,row+1,color)
-    kit.set_pixel(column+1,row+1,color)
+  if row < 0:
+    row = 0
+
+  # draw square
+  kit.set_pixel(column,row,color)
+  kit.set_pixel(column+1,row,color)
+  kit.set_pixel(column,row+1,color)
+  kit.set_pixel(column+1,row+1,color)
+  
+  kit.render()
+
+makeSquare(-2,-3)
 ```
