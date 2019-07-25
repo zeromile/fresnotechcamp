@@ -20,3 +20,18 @@ You are going to design a flier that we can email/hand out to your parents to in
 10. How long will the event be?
 11. Phone number for more information?
 12. What are they going to see when they visit? / Why should they visit?
+
+## Answered questions / revised info ##
+Summer tech camp 
+2019 4th annual summer tech camp
+Geekwise, Cmac, Fresno Housing
+1555 Van Ness Ave
+11:00 - 2:00
+August, 2
+Friday
+Park in the parking lot across the street
+Popcorn provided
+More info call (559)-513-5183
+mmcimtosh@fresnohousing.org
+		
+> When you visit our open house at cmac you will be seeing all of our proud creations and what we can do and what we have learned.  We will be showing you our python codes and our Adobe Spark designs that we have made on our computer  we appreciate you taking your time and coming down and visiting us and seeing our projects Thank you 
