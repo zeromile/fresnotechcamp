@@ -17,6 +17,6 @@ You are going to design a flier that we can email/hand out to your parents to in
 7. Day?
 8. Where should they park?
 9. Will food be provided?
-10. What are they going to see when they visit? / Why should they visit?
-11. How long will the event be?
-12. Phone number for more information?
+10. How long will the event be?
+11. Phone number for more information?
+12. What are they going to see when they visit? / Why should they visit?
