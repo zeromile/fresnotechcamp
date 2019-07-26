@@ -1,5 +1,31 @@
 # PixelKit Library Code
 
+## Set background color
+
+```
+import PixelKit as kit
+
+bgcolor = [10,3,6]
+kit.clear()
+kit.set_background(bgcolor)
+kit.render()
+
+```
+
+## Light a single pixel
+
+```
+import PixelKit as kit
+
+color = [10,3,6]
+column = 5
+row = 3
+
+kit.clear()
+kit.set_pixel(column, row, color)
+kit.render()
+```
+
 ## Make rectangle move 1
 
 ```
@@ -87,7 +113,7 @@ for lady in laydeez:
     print("  Hey " + lady)
 ```
 
-## Make american flag
+## Make American flag
 
 ```
 import time
