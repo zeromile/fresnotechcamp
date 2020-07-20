@@ -1,5 +1,5 @@
 # Housing Authority, CMAC, and Geekwise Summer Tech Camp #
-## Agenda - Week 1##
+## Agenda - Week 1 ##
 
 ### Monday ###
 - 09:00 - Check-in, introductions   
