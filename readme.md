@@ -27,3 +27,4 @@
   - The next videos will be coming shortly. Had to revise a few things
   - I will be available at our meeting link until 3pm for any questions you may have
   - Some of you maye be asked by Google to "verify" your email with a phone number. This is the recovery phone number and if they need to verify that it's you again they will text whatever number you provide...so make sure it's a phone you have access to.
+  - Video on variables and the console in Pythonista: https://youtu.be/xAvQqctaXEo
