@@ -38,6 +38,7 @@
 - 11:00 - Day 1 Challenge (self-study video) : https://youtu.be/XjcSg59SnNA
   - Watch the video, you will be editing our speech app code from yesterday, complete the challenge!!
 - 11:30 - Review challenge solution
+  - ![Day 1 Challenge Solution](https://github.com/zeromile/fresnotechcamp/blob/master/screenshots/day01-challenge-solution.jpg)
 - 11:45 - Learn about ```Functions```
 - __12:00 - LUNCH__
 - 01:00 - Dance party
