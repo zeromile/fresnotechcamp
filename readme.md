@@ -32,10 +32,11 @@
 ### TUESDAY ###
 - 09:00 - Check-in, discussion (what worked, what didn't?)
 - 09:30 - Dance party
-- 09:35 - Review ```Variables```, ```Conditionals```, and the console
+- 09:35 - Review ```Variables```
 - 10:00 - Show a cool thing with speech recognition
-- 10:15 - Day 1 Challenge (self-study video) : https://youtu.be/XjcSg59SnNA
-  - Watch the video, type the code our speech app from yesterday, complete the challenge!!
+- 10:15 - Review ```Conditionals```
+- 11:00 - Day 1 Challenge (self-study video) : https://youtu.be/XjcSg59SnNA
+  - Watch the video, you will be editing our speech app code from yesterday, complete the challenge!!
 - 11:00 - Review challenge solution
 - 11:30 - Learn about ```Functions```
 - __12:00 - LUNCH__
