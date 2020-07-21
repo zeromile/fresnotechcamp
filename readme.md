@@ -43,7 +43,12 @@
 - 01:00 - Dance party
 - 01:05 - Learn about ```Functions```
 - 02:00 - ```Functions``` (self-study video) : https://youtu.be/YQT_SO9MijI
-- 02:15 - Mini challenge
-  - 
-- 02:30 - Jason open for questions
-- 03:30 - OK, bye
+- 02:30 - Mini challenge
+  - Create a function named ```myMadLib``` that will take 3 variables. Name them ```myAction```, ```myThing```, and ```myPlace```
+  - The function should do this...
+  - ```print("I like to " + myAction + " my " + myThing + " on my " + myPlace)```
+  - And then call the function like this: ```myMadLib("run", "bat", "house")```
+- 02:45 - Jason open for questions
+- 03:00 - I'll be out for a meeting
+- 04:00 - Back for questions
+- 04:30 - OK, bye.
