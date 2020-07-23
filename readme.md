@@ -52,3 +52,39 @@
 - 03:00 - I'll be out for a meeting
 - 04:00 - Back for questions
 - 04:30 - OK, bye.
+
+
+### WEDNESDAY ###
+- 09:00 - Check-in, discussion
+- 09:15 - Solution for Day 2 Challenge
+- 09:30 - Review ```Variables```, ```Conditionals```, ```Functions```
+- 09:45 - BREAK
+- 10:00 - MadLib App : https://youtu.be/7p71zuGJ5uw
+- 11:00 - MadLib App Challenge: Add 2 more fields
+- __12:00 - LUNCH__
+- 01:00 - Show a cool thing with ```canvas```
+- 01:15 - Intro to ```canvas``` : https://youtu.be/zNWYOFErxtg
+- 02:00 - Challenge: Canvas Moon Party
+
+
+### THURSDAY ###
+- 09:00 - Jason may be a little late so read up on the following subjects:
+  - Arrays(lists) : https://www.w3schools.com/python/python_arrays.asp
+  - For loops : https://www.w3schools.com/python/python_for_loops.asp
+  - Random numbers : https://www.w3schools.com/python/gloss_python_random_number.asp
+- 09:15 - Mini challenge
+  - Create a new file (click plus sign upper-right corner)
+  - Name the file ```listLoopRandom.py```
+  - Make a new list of at least 3 of your favorite friends, the variable name will be ```myFriends```
+    - so like, ```myFriends = ['Bobby', 'Marcella', 'Mary']```
+    - Make a ```for``` loop that will loop through each of your friend and ```print()``` their name along with a random number between 1 and 10
+- 10:00 - ```Lists```, ```for``` loops, and ```random``` numbers
+- 10:30 - Passing lists to Functions
+- 11:00 - Mini challenge : Use your Canvas Moon Party code and add a universe of stars behind it
+  - You will create a new function that will draw circles(stars)
+  - You will call the star function using a for loop that will count to 50
+  - The for loop should also create random colors
+  - Stars must be placed randomly
+  - Stars must be random colors
+  - Stars must be random sizes
+- __LUNCH__
