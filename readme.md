@@ -88,3 +88,7 @@
   - Stars must be random colors
   - Stars must be random sizes
 - __LUNCH__
+- 1:00 - Dance party with Kyle
+- 1:15 - Review mini Challenge
+- 2:00 - Day 4 Challenge: Create a function that will allow you to create text on the Canvas
+  - ![Day 4 Challenge Example](https://github.com/zeromile/fresnotechcamp/blob/master/screenshots/day04-challenge-solution.jpg)
