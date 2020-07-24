@@ -72,6 +72,7 @@
   - Arrays(lists) : https://www.w3schools.com/python/python_arrays.asp
   - For loops : https://www.w3schools.com/python/python_for_loops.asp
   - Random numbers : https://www.w3schools.com/python/gloss_python_random_number.asp
+- Lists, Loops, and Arrays video recap : https://youtu.be/VMx0lmeBIek
 - 09:15 - Mini challenge
   - Create a new file (click plus sign upper-right corner)
   - Name the file ```listLoopRandom.py```
@@ -80,7 +81,7 @@
     - Make a ```for``` loop that will loop through each of your friend and ```print()``` their name along with a random number between 1 and 10
 - 10:00 - ```Lists```, ```for``` loops, and ```random``` numbers
 - 10:30 - Passing lists to Functions
-- 11:00 - Mini challenge : Use your Canvas Moon Party code and add a universe of stars behind it
+- 11:00 - Mini challenge : Use your Canvas Moon Party code and add a universe of stars behind it : https://youtu.be/fugBR-0Ck-g
   - You will create a new function that will draw circles(stars)
   - You will call the star function using a for loop that will count to 50
   - The for loop should also create random colors
@@ -89,6 +90,7 @@
   - Stars must be random sizes
 - __LUNCH__
 - 1:00 - Dance party with Kyle
-- 1:15 - Review mini Challenge
+- 1:15 - Review mini Challenge solution : https://youtu.be/Ih8oRinaSUg
 - 2:00 - Day 4 Challenge: Create a function that will allow you to create text on the Canvas
   - ![Day 4 Challenge Example](https://github.com/zeromile/fresnotechcamp/blob/master/screenshots/day04-challenge-solution.jpg)
+- End of day challenge - Record running your Moon Party code. Watch this video to learn how : https://youtu.be/Crzi4nEa7lc
