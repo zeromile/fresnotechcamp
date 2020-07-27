@@ -10,6 +10,8 @@ __Morning (9am)__
 - Post-Production (Editing)
 - Intro to visual storytelling
 - Storyboarding
+Creative inspiration: https://www.youtube.com/watch?v=tIugziLDIcY&list=PLfLYzWZuIvXL35WG9UO2Mt5GtzwbXTiVT&index=2&t=1s
+
 
 __Midday__
 - Meetings with campers to discuss story
