@@ -27,7 +27,7 @@ __Midday__
 - Wrapup
 - Discuss successes and challenges of production
 
-## Wednesday (Filming & Editing) ###
+### Wednesday (Filming & Editing) ###
 __Morning__
 - Check in
 - Introduction to editing
