@@ -157,5 +157,5 @@ __Midday__
 - 09:15 - review
 - 09:30 - Finish Day 4 challenge AND then do the End of Day Challenge (super easy)
 - 10:00 - Show something cool in screen
-- 10:15 - Show how to use ```Screen``` library
+- 10:15 - Show how to use ```Scene``` library
 - __LUNCH__
