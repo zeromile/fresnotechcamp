@@ -1,4 +1,60 @@
-# Housing Authority, CMAC, and Geekwise Summer Tech Camp #
+# Fresno Housing, CMAC, and Geekwise Summer Tech Camp #
+## Agenda - Week 2 ##
+
+### Monday (Intro & Writing) ###
+__Morning (9am)__
+- Introductions
+- Walkthrough of the week
+- Pre-Production (Writing)
+- Production (Filming)
+- Post-Production (Editing)
+- Intro to visual storytelling
+- Storyboarding
+
+__Midday__
+- Meetings with campers to discuss story
+- Wrapup (1pm)
+- Campers share their final stories with the whole group
+- Prep for next day
+
+### Tuesday (Filming) ###
+__Morning__
+- Check in
+- Introduction to camera angles and composition
+
+__Midday__
+- Check in with campers with production
+- Wrapup
+- Discuss successes and challenges of production
+
+## Wednesday (Filming & Editing) ###
+__Morning__
+- Check in
+- Introduction to editing
+
+__Midday__
+- Check in with campers still in production and starting post-production
+- Wrapup
+- Discuss successes and challenges of production & post-production
+
+
+### Thursday (Editing) ###
+__Morning__
+- Check in
+- Review editing & exporting
+
+__Midday__
+- Encourage campers to start submitting their films
+- Wrapup
+- Discuss successes and challenges of post-production
+- Have campers submit final films for showcase
+
+
+### Friday (Showcase) ###
+- Showcase Live-Stream/Group call
+
+
+
 ## Agenda - Week 1 ##
 
 ### MONDAY ###
@@ -94,3 +150,12 @@
 - 2:00 - Day 4 Challenge: Create a function that will allow you to create text on the Canvas
   - ![Day 4 Challenge Example](https://github.com/zeromile/fresnotechcamp/blob/master/screenshots/day04-challenge-solution.jpg)
 - End of day challenge - Record running your Moon Party code. Watch this video to learn how : https://youtu.be/Crzi4nEa7lc
+
+
+### FRIDAY ###
+- 09:00 - checkin
+- 09:15 - review
+- 09:30 - Finish Day 4 challenge AND then do the End of Day Challenge (super easy)
+- 10:00 - Show something cool in screen
+- 10:15 - Show how to use ```Screen``` library
+- __LUNCH__
