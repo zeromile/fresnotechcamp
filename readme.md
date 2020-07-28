@@ -24,6 +24,7 @@ __Midday__
 __Morning__
 - Check in (meeting link: https://meet.google.com/vdd-tmad-bhc)
 - Introduction to camera angles and composition
+- Reference video : https://www.youtube.com/watch?v=jRZqoMJRycg&list=PLfLYzWZuIvXIQCxPB81mb-qbQE8l1hrxJ&index=3
 
 __Midday__
 - Check in with campers with production
