@@ -21,7 +21,7 @@ __Midday__
 
 
 ### Tuesday (Filming) ###
-__Morning__
+__Morning__ Morning session recording : https://www.youtube.com/watch?v=YuXiLnMDw6g
 - Check in (meeting link: https://meet.google.com/vdd-tmad-bhc)
 - Introduction to camera angles and composition
 - Reference video : https://www.youtube.com/watch?v=jRZqoMJRycg&list=PLfLYzWZuIvXIQCxPB81mb-qbQE8l1hrxJ&index=3
