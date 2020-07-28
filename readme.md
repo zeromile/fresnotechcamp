@@ -26,7 +26,7 @@ __Morning__ Morning session recording : https://www.youtube.com/watch?v=YuXiLnMD
 - Introduction to camera angles and composition
 - Reference video : https://www.youtube.com/watch?v=jRZqoMJRycg&list=PLfLYzWZuIvXIQCxPB81mb-qbQE8l1hrxJ&index=3
 
-__Midday__
+__Midday__ Midday session recording : https://youtu.be/o4s6ml7LLy0
 - Check in with campers with production
 - Wrapup
 - Discuss successes and challenges of production
