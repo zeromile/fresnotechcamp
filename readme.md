@@ -2,7 +2,8 @@
 ## Agenda - Week 2 ##
 
 ### Monday (Intro & Writing) ###
-__Morning (9am)__
+__Morning (9am)__ Here's the YouTube link of the video from today's morning session:
+https://youtu.be/5yNl2c1pB4M
 - Introductions
 - Walkthrough of the week
 - Pre-Production (Writing)
@@ -12,22 +13,23 @@ __Morning (9am)__
 - Storyboarding
 Creative inspiration: https://www.youtube.com/watch?v=tIugziLDIcY&list=PLfLYzWZuIvXL35WG9UO2Mt5GtzwbXTiVT&index=2&t=1s
 
-
 __Midday__
 - Meetings with campers to discuss story
-- Wrapup (1pm)
+- Wrap-up (1pm)
 - Campers share their final stories with the whole group
 - Prep for next day
 
+
 ### Tuesday (Filming) ###
 __Morning__
-- Check in
+- Check in (meeting link: https://meet.google.com/vdd-tmad-bhc)
 - Introduction to camera angles and composition
 
 __Midday__
 - Check in with campers with production
 - Wrapup
 - Discuss successes and challenges of production
+
 
 ### Wednesday (Filming & Editing) ###
 __Morning__
