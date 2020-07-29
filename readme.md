@@ -22,35 +22,44 @@ __Midday__
 
 ### Tuesday (Filming) ###
 __Morning__ Morning session recording : https://www.youtube.com/watch?v=YuXiLnMDw6g
-- Check in (meeting link: https://meet.google.com/vdd-tmad-bhc)
+- Check-in (meeting link: https://meet.google.com/vdd-tmad-bhc)
 - Introduction to camera angles and composition
 - Reference video : https://www.youtube.com/watch?v=jRZqoMJRycg&list=PLfLYzWZuIvXIQCxPB81mb-qbQE8l1hrxJ&index=3
 
 __Midday__ Midday session recording : https://youtu.be/o4s6ml7LLy0
-- Check in with campers with production
+- Check-in with campers with production
 - Wrapup
 - Discuss successes and challenges of production
 
 
 ### Wednesday (Filming & Editing) ###
-__Morning__
-- Check in
+__Morning__ Morning session recording : https://youtu.be/OCny8HIcjXk
+- Check-in
 - Introduction to editing
+- Recording videos for Showcase
+- Video submission link : https://bit.ly/stcfilerequest
+- Film Introductions
+  - Your name : "Hi, my name is ________"
+  - What did you learn at camp? : "Over the last 2 weeks I learned about ________"
+  - What were your favorite parts? : "My favorite parts of camp have been ________"
+  - Introduce your movie : "Now here's my movie called ______________. Enjoy!"
+- Editing tutorial links
+  - https://www.youtube.com/watch?v=P_l0PSdi044&list=PLfLYzWZuIvXIQCxPB81mb-qbQE8l1hrxJ&index=5
+  - https://www.youtube.com/playlist?list=PLc4X0Mis51cvfWLsNpHVvTTT19jWZplPZ
 
 __Midday__
-- Check in with campers still in production and starting post-production
-- Wrapup
+- Check-in with campers still in production and starting post-production
+- Wrap-up
 - Discuss successes and challenges of production & post-production
-
 
 ### Thursday (Editing) ###
 __Morning__
-- Check in
+- Check-in
 - Review editing & exporting
 
 __Midday__
 - Encourage campers to start submitting their films
-- Wrapup
+- Wrap-up
 - Discuss successes and challenges of post-production
 - Have campers submit final films for showcase
 
