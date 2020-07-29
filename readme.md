@@ -38,7 +38,7 @@ __Morning__ Morning session recording : https://youtu.be/OCny8HIcjXk
 - Introduction to editing
 - Recording videos for Showcase
 - Video submission link : https://bit.ly/stcfilerequest
-- Film Introductions
+- Film Introductions - Please record a video of yourself using the following script. This will go at the beginning of your movie
   - Your name : "Hi, my name is ________"
   - What did you learn at camp? : "Over the last 2 weeks I learned about ________"
   - What were your favorite parts? : "My favorite parts of camp have been ________"
